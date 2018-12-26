@@ -1,7 +1,7 @@
 ---
 layout: null
-title: July 2011 - May 2012
-subtitle:
+title: Syntel
+subtitle: Jun 2011 - May 2012
 image: "img/timeline/1.jpg"
 ---
-Vix ne omnesque interpretaris, per ut menandri tincidunt conclusionemque. Sit te simul clita, et vis dicant probatus honestatis
+Software Engineer

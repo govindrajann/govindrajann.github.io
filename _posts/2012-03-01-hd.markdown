@@ -1,7 +1,7 @@
 ---
 layout: null
-title: May 2012 - January 2013
-subtitle:
+title: Home Depot
+subtitle: May 2012 - June 2014
 image: "img/timeline/2.jpg"
 ---
-Ex mei electram eloquentiam. An torquatos intellegebat pro, solum liber saepe et eos. Postea essent meliore ne mei, brute referrentur et eum, cum ei oblique tincidunt definitiones.
+Analyst Programmer
